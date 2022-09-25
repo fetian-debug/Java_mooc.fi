@@ -1,0 +1,1 @@
+[{"className":"LoginTest","methodName":"CorrectOnesPass","pointNames":["03-25"],"status":"PASSED"},{"className":"LoginTest","methodName":"incorrectOnesNotPassing","pointNames":["03-25"],"message":"timeout","status":"FAILED"}]
